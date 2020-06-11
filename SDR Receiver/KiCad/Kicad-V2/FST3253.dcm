@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS155
+D Dual 2 to 4 lines Decoder/Demultiplexer
+K TTL DECOD8 DECOD4 DEMUX4 DEMUX8 DEMUX DECOD
+F http://www.ti.com/lit/gpn/sn74LS155
+$ENDCMP
+#
+$CMP 74LS156
+D Dual 2 to 4 lines Decoder/Demultiplexer, Open Collector
+K TTL DECOD8 DECOD4 DEMUX4 DEMUX8 OpenCol
+F http://www.ti.com/lit/gpn/sn74LS156
+$ENDCMP
+#
+#End Doc Library
