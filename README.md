@@ -12,5 +12,5 @@
 
 **Status of Project** | Visit the "issues" tab to see errors and fixes for this project - which should provide a more in depth explanation for the quote "status" of the project. You can also visit the "Wiki" page or view the documentation files in the folders for a description of build and test process when troubleshooting issues.
 
-REVISION 1: 05/26/2020  Build Phase and Troubleshooting Hardware
-REVISION 2: 06/04/2020 Test Phase and Troubleshooting Quisk Software Integration
+REVISION 1: 05/26/2020  Build Phase and Troubleshooting Hardware |
+REVISION 2: 06/04/2020 Test Phase and Troubleshooting Quisk Software Integration | REVISION 3: 06/10/2020 Working Radio Fine Tuning and Adjustments
