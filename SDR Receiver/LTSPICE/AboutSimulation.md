@@ -1,2 +1,6 @@
 **LTspice Simulations |** A description of what each simulation file models
 
+* The [BypassFilterSim](https://github.com/greenjacketgirl/SDR_Receiver/blob/master/SDR%20Receiver/LTSPICE/BypassFilterSim.asc) file essentially contains the simulation of the entire board: Input signal biasing, bandpass filters, tayloe mixer, summing amps, and low-pass filter. This simulation inludes a transients analysis as well as an ac analysis which was useful for the analysing the bandpass filters. We started to attempt a simulation of the noise in the circuit - but this analysis isn't complete yet and is something that can be addressed as future work in the project. See the [issues section number 10 thread](https://github.com/greenjacketgirl/SDR_Receiver/issues/10) for more info on this goal. 
+
+
+* The [TayloeMixerSim](https://github.com/greenjacketgirl/SDR_Receiver/blob/master/SDR%20Receiver/LTSPICE/TayloeMixerSim.asc) is just a simulation nof the tayloe mixer and following op-amps. In there, I was experimenting with different filter and amplification designs. The final design I went with was included in the [BypassFilterSim](https://github.com/greenjacketgirl/SDR_Receiver/blob/master/SDR%20Receiver/LTSPICE/BypassFilterSim.asc) file.
