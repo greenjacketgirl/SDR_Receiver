@@ -1,5 +1,7 @@
 # SDR Receiver Project
 
+![](https://github.com/greenjacketgirl/SDR_Receiver/blob/master/Photos/00000PORTRAIT_00000_BURST20200526190957384.jpg)
+
 **Introduction** | This project was created in the scope of the the class ENGR 357 "Engineering Electronics II" conducted through online learning at Walla Walla University. We (Jordyn Watkins and Joshua Silver) were tasked with designing, building, and testing a *software defined radio (SDR) receiver*. For more information on the theory and circuit analysis of the design, please refer to the "Wiki" tab.
 
 **Navigation** | This repository consists of several folders. In this "code" tab, you will find 2 main folders: Attenuator and Receiver. Within the attenuator file, you will find a folder containing the KiCad files, a folder containing the LTspice simulation files, and a                third folder containing build and test notes with pictures and other documentation. The Receiver folder contains 4 main folders: KiCad, LTSpice, Quisk, and Documentation. 
